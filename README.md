@@ -1,5 +1,3 @@
-Sure, here's an example README file specific to the latest code we've written:
-
 # Lookup ID by Name
 
 This is a simple Python script that allows you to look up a unique ID string by inputting a name or partial name. The script loads a CSV file containing the ID and name pairs and creates a dictionary to store them. It then prompts the user to input a name or partial name and searches the dictionary (case-insensitive) for any matching names. If a match is found, the script prints the corresponding ID and copies it to the clipboard.
